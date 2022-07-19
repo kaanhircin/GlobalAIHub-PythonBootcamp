@@ -29,7 +29,7 @@ print(square_list2)
 
 # TUPLES - Immutable
 
-cars = tuple(['BMW', 'Ford', 'Opel', 'Citroen', 'Fiat'])
+cars = ('BMW', 'Ford', 'Opel', 'Citroen', 'Fiat')
 
 item1, item2, item3, item4, item5 = cars
 
